@@ -1,0 +1,22 @@
+{
+    "name": "aaronbullard/laravel-schemarequest",
+    "description": "Server side form validation using JSON Schema",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aaron Bullard",
+            "email": "jabullard@aol.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/framework": "5.1.*",
+        "justinrainbow/json-schema": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "SchemaRequest\\": "src/"
+        }
+    },
+}
