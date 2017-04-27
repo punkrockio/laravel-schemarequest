@@ -1,5 +1,5 @@
 {
-    "name": "aaronbullard/laravel-schemarequest",
+    "name": "punkrockio/laravel-schemarequest",
     "description": "Server side form validation using JSON Schema",
     "license": "MIT",
     "authors": [
